@@ -1,14 +1,13 @@
-CSS
+<style>
+   body {background-color: #FF9900;
+         color: #000099;
+         font-family: arial,Helvetica,san-serif;}
+   h1 {background-color:#cccccc;
+       color:#FF0000;
+       font-family: Times New Roman;}
+ </style>
+   
 
-{
-   background: orange;
-   color: #000099;
-   font-family: arial,Helvetica,san-serif;
-}
-a {
-background-color: gray;
-}
-h1 {
-   font-family: Times New Roman;
-   color: red;
+                     
+   
    
